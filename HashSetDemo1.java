@@ -18,6 +18,7 @@ public class HashSetDemo1 {
 	hs.add("C");  //   Insertion Order is not priserve and duplication is not allowed 
 	System.out.println(hs.add("Z"));
 	System.out.println(hs);
+
 	}
 	
 
